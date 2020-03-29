@@ -3,7 +3,6 @@ import unittest
 
 from functions import *
 
-https://github.com/apulijala/git-repo-lesson5.git
 
 class TestFunctions(unittest.TestCase):
     """ Test add_values
